@@ -1,6 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <h1 align="center">Hi 👋, I'm srilakshmi9312</h1>
 <h3 align="center">Passionate about technology and eager to learn new skills.</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffemale-programmer&psig=AOvVaw1OzQxdpPetrAw2qysjP7JA&ust=1707924259293000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLif4fTPqIQDFQAAAAAdAAAAABAR">
 
 - 🌱 I’m currently learning **C++,Java.**
 
